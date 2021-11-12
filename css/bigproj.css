@@ -132,6 +132,20 @@ fc1{
 
 }
 
+#gapcontainer{
+    background:#fff8f0;
+    height:50px;
+}
+
+#container2{
+    margin:0 auto;
+    width:875px;
+    height:200px;
+    text-align:left;
+    background:#921406;
+}
+
+
 pfc{
     margin:1em 0;
 }
